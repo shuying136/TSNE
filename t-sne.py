@@ -26,3 +26,5 @@ try:
 
 except ImportError:
   print("Please install sklearn, matplotlib, and scipy to visualize embeddings.")
+
+#  t-SNE can help us to decide whether classes are separable in some linear or nonlinear representation.
